@@ -55,7 +55,7 @@ Existing exports are never overwritten.
 
 The application modules and tests are in the repository root. Run `Run_Tests.bat`
 after setup for the full local test suite. Some tests briefly show windows.
-GitHub Actions runs syntax and lightweight parser checks without downloading models.
+Older versions are preserved as downloadable backups on the [archive release](https://github.com/SquareRoot169/hawkes-companion/releases/tag/legacy-versions).
 
 Large runtime files, models, generated documents, and personal preferences are
 excluded from Git. Setup prepares the external resources locally. Once prepared,
