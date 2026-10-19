@@ -1,0 +1,21 @@
+Tectonic 0.17.0 is included unmodified from the official Windows x86_64 MSVC
+release. The release archive SHA-256 was verified against GitHub's published
+release-asset digest. See PROVENANCE.json and LICENSE.
+Source: https://github.com/tectonic-typesetting/tectonic/tree/tectonic%400.17.0
+
+The local cache holds unmodified TeX/LaTeX packages and Latin Modern/AMS font
+resources obtained from Tectonic's default TeX Live support bundle. Copyright
+and package license comments are retained in the cached files. These resources
+retain their original licenses (including LPPL and the relevant font licenses),
+not the application license. Package sources are available through CTAN and
+the Tectonic support-bundle project:
+https://ctan.org/
+https://github.com/tectonic-typesetting/tectonic-texlive-bundles
+https://www.latex-project.org/lppl/
+https://www.gust.org.pl/projects/e-foundry/latin-modern
+
+The PDF preview uses pypdfium2/PDFium. Its license and third-party notices are
+retained in runtime/Lib/site-packages/pypdfium2-5.14.0.dist-info/licenses.
+
+Runtime export explicitly uses cached files only and untrusted-input mode.
+Online resource preparation occurred during packaging, not during normal use.
