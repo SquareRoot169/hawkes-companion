@@ -1,0 +1,4 @@
+* text=auto
+*.bat text eol=crlf
+vendor/** linguist-vendored
+assets/*.png binary
