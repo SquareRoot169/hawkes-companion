@@ -1,0 +1,6 @@
+New artwork: hawk_open.png. Generated with the built-in image_gen editing tool.
+Reference/edit target: the existing v0.4 assets/hawk.png (unchanged).
+Runtime composites only a small beak patch; no generated whole-body frames alternate.
+
+Prompt:
+Edit target: the attached transparent hawk app artwork. Create its mouth-open talking animation frame. Preserve the EXACT hawk identity, pose, feather placement, eyes, chest, wings, talons, tail, camera, transparent background, aspect ratio, pixel alignment and canvas dimensions of the reference. Change ONLY the BEAK: open the lower beak slightly, naturally, as though the hawk is speaking, with a modest dark mouth interior. Keep the upper beak and all surrounding feathers aligned. No tongue sticking out, no teeth, no smile. Do not redraw or move the head or eyes. The change should be confined to a very small patch around the existing beak. No text, no UI, no new objects. This will alternate with the original closed-beak artwork during speech.
